@@ -1,0 +1,33 @@
+ .parallax-container {
+      height: 350px;
+    }
+#llamar{
+	background: #005194;
+	color : #FFF;
+}
+#portafolio {
+	background: #1C1C1C;
+	color: white;
+	margin-bottom: -18px;
+}
+.proyecto {
+	font-size: 20px;
+	width: 300px;
+	display: inline-block;
+	background: #707070;
+	border-radius: 50px;
+}
+.proyecto img {
+
+	border-radius: 20px;
+}
+.img-proyecto {
+
+
+}
+
+#llama2{
+	background: #005194;
+	color : #FFF;
+	margin-bottom: -20px;
+}
